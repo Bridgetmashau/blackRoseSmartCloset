@@ -1,0 +1,7 @@
+.backround{
+    display: flex;
+    justify-content: center; /* Centering Horizantly */
+    align-items: center; 
+
+    background-color: #D2B48C;
+}
